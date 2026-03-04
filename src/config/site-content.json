@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Kael Odin's Blog",
+		"description": "Kael 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "Kael Odin"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -61,6 +61,13 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1772591162791",
+			"type": "qq",
+			"value": "445481611",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
